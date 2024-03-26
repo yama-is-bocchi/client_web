@@ -1,0 +1,2 @@
+https://englishtech.azurewebsites.net/client_web_project/
+AZUREの無料枠にgit actionを使用してデプロイしました上記URLが作成したWEBアプリのリンクとなります
